@@ -8,6 +8,7 @@ public class ApiSpringbootStarterApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiSpringbootStarterApplication.class, args);
+		System.out.println("Hello world !!");
 	}
 
 }

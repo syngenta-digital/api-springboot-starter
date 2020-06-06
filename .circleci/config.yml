@@ -21,6 +21,7 @@ jobs: # a collection of steps
           paths:
             - ~/.m2
           key: circleci-demo-java-spring-{{ checksum "pom.xml" }}
+      - run: mvn test # 
       
       - run: mvn package # run the actual tests
       

@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.poc.helloworld.api-springboot-starter' is invalid and this project uses 'com.poc.helloworld.apispringbootstarter' instead.
-
 # Getting Started
 
 ### Reference Documentation
